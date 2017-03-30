@@ -22,7 +22,7 @@ At high level, here are the steps followed.
 	 - Run the pipeline on a video stream, create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 	 - Estimate a bounding box for vehicles detected.
 
-Most of the code for this project is leveraged from the lecture notes. The project has been implemented in traditional CV as well as deep learning methods.
+The project has been implemented in traditional CV as well as deep learning methods.
 
 This project is step 2 of the overall implementation
 
